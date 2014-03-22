@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\семестр2.др1\FactorialTest\obj\Debug\FactorialTest.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\семестр2.др1\FactorialTest\bin\Debug\FactorialTest.dll
+C:\Users\1\Desktop\семестр2.др1\FactorialTest\bin\Debug\FactorialTest.pdb
+C:\Users\1\Desktop\семестр2.др1\FactorialTest\bin\Debug\семестр2.др1.exe
+C:\Users\1\Desktop\семестр2.др1\FactorialTest\bin\Debug\семестр2.др1.pdb
+C:\Users\1\Desktop\семестр2.др1\FactorialTest\obj\Debug\FactorialTest.dll
+C:\Users\1\Desktop\семестр2.др1\FactorialTest\obj\Debug\FactorialTest.pdb
