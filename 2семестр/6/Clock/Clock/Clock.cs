@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace Clock
 {
-    public partial class Form1 : Form
+    public partial class Clock : Form
     {
-        public Form1()
+        public Clock()
         {
             InitializeComponent();
             label1.Text = DateTime.Now.ToLongTimeString();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void Timer1Tick(object sender, EventArgs e)
         {
             label1.Text = DateTime.Now.ToLongTimeString();
         }
