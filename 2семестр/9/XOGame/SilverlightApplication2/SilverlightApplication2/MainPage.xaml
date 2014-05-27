@@ -1,0 +1,22 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" x:Class="SilverlightApplication2.MainPage"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Button Content="" x:Name="button1" HorizontalAlignment="Left" Height="43" Margin="24,57,0,0" VerticalAlignment="Top" Width="69" Click="button1Click"/>
+        <Button Content="" x:Name="button2" HorizontalAlignment="Left" Height="43" Margin="151,57,0,0" VerticalAlignment="Top" Width="69" Click="button2Click"/>
+        <Button Content="" x:Name="button3" HorizontalAlignment="Left" Height="43" Margin="278,57,0,0" VerticalAlignment="Top" Width="69" Click="button3Click"/>
+        <Button Content="" x:Name="button4" HorizontalAlignment="Left" Height="43" Margin="24,142,0,0" VerticalAlignment="Top" Width="69" Click="button4Click"/>
+        <Button Content="" x:Name="button5" HorizontalAlignment="Left" Height="43" Margin="151,142,0,0" VerticalAlignment="Top" Width="69" Click="button5Click"/>
+        <Button Content="" x:Name="button6" HorizontalAlignment="Left" Height="43" Margin="278,142,0,0" VerticalAlignment="Top" Width="69" Click="button6Click"/>
+        <Button Content="" x:Name="button7" HorizontalAlignment="Left" Height="43" Margin="24,223,0,0" VerticalAlignment="Top" Width="69" Click="button7Click"/>
+        <Button Content="" x:Name="button8" HorizontalAlignment="Left" Height="43" Margin="151,223,0,0" VerticalAlignment="Top" Width="69" Click="button8Click"/>
+        <Button Content="" x:Name="button9" HorizontalAlignment="Left" Height="43" Margin="278,223,0,0" VerticalAlignment="Top" Width="69" Click="button9Click"/>
+
+    </Grid>
+</UserControl>
