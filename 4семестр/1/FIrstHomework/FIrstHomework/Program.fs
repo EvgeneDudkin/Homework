@@ -14,4 +14,4 @@ let rec fibonacci x =
 let testFibonacci = fibonacci 6
 
 printfn "%s" "Fibonacci 6 :"
-printfn "%A" testFibonacci
+printfn "%A" testFibonacci 
